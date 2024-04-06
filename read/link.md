@@ -16,6 +16,11 @@ has_children: true
 * SourceForge / [Nitrux](https://sourceforge.net/projects/nitruxos/)
 
 
+## Nitrux / News
+
+* [Release Announcement: Nitrux 3.4.0 "pl"](https://nxos.org/changelog/release-announcement-nitrux-3-4-0/)
+
+
 
 
 ## Just the Docs
