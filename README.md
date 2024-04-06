@@ -12,8 +12,17 @@
 
 ## 主題
 
-* [入門](#入門)
+* [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| -------- |
+| [Nitrux 3.4.0](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/full-config/locale/en_us/Nitrux-Dark) |
 
 
 
