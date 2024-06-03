@@ -8,17 +8,21 @@ has_children: true
 # Link
 
 
+
+
+## Nitrux / News
+
+* [Release Announcement: Nitrux 3.5.0 "cx"](https://nxos.org/changelog/release-announcement-nitrux-3-5-0/)
+
+
+
+
 ## Nitrux
 
 * [Nitrux](https://nxos.org/) ([GitHub](https://github.com/Nitrux/))
 * [nx-desktop](https://nxos.org/english/nxd/) ([GitHub](https://github.com/nx-desktop))
 * [mauikit](https://mauikit.org/) ([Source](https://invent.kde.org/maui/mauikit))
 * SourceForge / [Nitrux](https://sourceforge.net/projects/nitruxos/)
-
-
-## Nitrux / News
-
-* [Release Announcement: Nitrux 3.4.0 "pl"](https://nxos.org/changelog/release-announcement-nitrux-3-4-0/)
 
 
 
