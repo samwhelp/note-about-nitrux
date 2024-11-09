@@ -22,7 +22,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Nitrux](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/full-config/locale/en_us/Nitrux-Dark) |
+| [Nitrux](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/nitrux-config/locale/en_us/Nitrux-Dark) |
 
 
 
