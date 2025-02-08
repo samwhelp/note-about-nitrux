@@ -36,3 +36,5 @@
 | [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
 | [KDE Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
 | [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
+| [Lingmo OS 探索筆記](https://samwhelp.github.io/note-about-lingmo/) | [GitHub](https://github.com/samwhelp/note-about-lingmo) |
+| [GXDE OS 探索筆記](https://samwhelp.github.io/note-about-gxde/) | [GitHub](https://github.com/samwhelp/note-about-gxde) |
