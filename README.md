@@ -8,7 +8,7 @@
 | [Nitrux 探索筆記](https://samwhelp.github.io/note-about-nitrux/) | [GitHub](https://github.com/samwhelp/note-about-nitrux) |
 
 
-> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-nitrux/read/cheatsheet/keybind.html#%E7%B3%BB%E7%B5%B1%E6%93%8D%E4%BD%9C)
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-nitrux/read/cheatsheet/keybind.html)
 
 
 
