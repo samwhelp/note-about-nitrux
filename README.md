@@ -40,8 +40,6 @@
 
 
 
-## 相關筆記
-
 | Link | GitHub |
 | ---- | ------ |
 | [Kde 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
