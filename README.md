@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [Nitrux Respin](#nitrux-respin)
 * [相關筆記](#相關筆記)
 
 
@@ -23,6 +24,16 @@
 | 微調腳本 |
 | -------- |
 | [Nitrux Config](https://github.com/samwhelp/nitrux-adjustment/tree/main/prototype/main/nitrux-config/locale/en_us/Nitrux-Dark) |
+
+
+
+
+## Nitrux Respin
+
+| Link | GitHub |
+| ---- | ------ |
+| [Nitrux Hyprland 探索筆記](https://samwhelp.github.io/note-about-nitrux-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-nitrux-hyprland) |
+| [Nitrux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-nitrux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-nitrux-kde-plasma) |
 
 
 
