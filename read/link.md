@@ -13,6 +13,8 @@ has_children: false
 ## Nitrux / News
 
 * [Release Announcement: Nitrux 5.0.0](https://nxos.org/changelog/release-announcement-nitrux-5-0-0/)
+* [Release Announcement: Nitrux 3.9.1 “mk”](https://nxos.org/changelog/release-announcement-nitrux-3-9-1/)
+* [Release Announcement: Nitrux 3.9.0 “pd”](https://nxos.org/changelog/release-announcement-nitrux-3-9-0/)
 * [Release Announcement: Nitrux 3.7.1 “sp”](https://nxos.org/changelog/release-announcement-nitrux-3-7-1/)
 * [Release Announcement: Nitrux 3.5.0 "cx"](https://nxos.org/changelog/release-announcement-nitrux-3-5-0/)
 
